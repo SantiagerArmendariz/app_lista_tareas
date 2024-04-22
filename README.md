@@ -1,4 +1,4 @@
-# app_lista_tareas
+# Lista de tareas
 Esta es una aplicación web diseñada para ayudarte a organizar y administrar tus tareas pendientes de manera eficiente. Este proyecto fue desarrollado utilizando React, una biblioteca de JavaScript ampliamente utilizada para construir interfaces de usuario interactivas.
 
 Características
