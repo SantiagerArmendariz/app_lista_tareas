@@ -9,3 +9,9 @@ Interfaz Intuitiva: Diseño limpio y fácil de usar que te permite enfocarte en 
 Clasificación de Tareas: Ordena tus tareas por fecha de vencimiento, prioridad o cualquier otro criterio relevante.
 Persistencia de Datos: Tus tareas se guardan automáticamente en el navegador, lo que te permite retomar tu trabajo en cualquier momento.
 Responsive: La aplicación es totalmente compatible con dispositivos móviles, lo que te permite administrar tus tareas desde cualquier lugar.
+
+#Screenshots of the app
+
+<img width="809" alt="Screenshot 2024-04-22 at 3 36 46 p m" src="https://github.com/SantiagerArmendariz/app_lista_tareas/assets/140926069/b6397205-6525-4230-9d92-bbe3e604925e">
+
+<img width="833" alt="Screenshot 2024-04-22 at 3 37 07 p m" src="https://github.com/SantiagerArmendariz/app_lista_tareas/assets/140926069/f5b01d42-0e0f-43ac-8c40-78259512fd3a">
