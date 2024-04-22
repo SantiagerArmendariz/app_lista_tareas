@@ -1,16 +1,16 @@
-# Lista de tareas
-Esta es una aplicación web diseñada para ayudarte a organizar y administrar tus tareas pendientes de manera eficiente. Este proyecto fue desarrollado utilizando React, una biblioteca de JavaScript ampliamente utilizada para construir interfaces de usuario interactivas.
+# Task Manager Website
+Welcome to my task manager web application, designed to assist you in efficiently organizing and managing your pending tasks. Developed using React, a widely-utilized JavaScript library for crafting interactive user interfaces.
 
-Características
+Features
 
-Gestión de Tareas: Agrega, edita, marca como completadas o no completadas y elimina tareas fácilmente.
-Visualización Completa: Muestra todas las tareas pendientes, así como la opción de filtrar y mostrar solo las tareas completadas o incompletas.
-Interfaz Intuitiva: Diseño limpio y fácil de usar que te permite enfocarte en tus tareas sin distracciones.
-Clasificación de Tareas: Ordena tus tareas por fecha de vencimiento, prioridad o cualquier otro criterio relevante.
-Persistencia de Datos: Tus tareas se guardan automáticamente en el navegador, lo que te permite retomar tu trabajo en cualquier momento.
-Responsive: La aplicación es totalmente compatible con dispositivos móviles, lo que te permite administrar tus tareas desde cualquier lugar.
+Task Management: Easily add, edit, mark as completed or incomplete, and delete tasks.
+Comprehensive View: Displays all pending tasks, with options to filter and display only completed or incomplete tasks.
+Intuitive Interface: Clean and user-friendly design allows you to focus on your tasks without distractions.
+Task Sorting: Arrange your tasks by due date, priority, or any other relevant criteria.
+Data Persistence: Your tasks are automatically saved in the browser's local storage, ensuring you can seamlessly resume your work at any time.
+Responsive: Fully compatible with mobile devices, empowering you to manage your tasks on the go.
 
-#Screenshots of the app
+# Screenshots 
 
 <img width="809" alt="Screenshot 2024-04-22 at 3 36 46 p m" src="https://github.com/SantiagerArmendariz/app_lista_tareas/assets/140926069/b6397205-6525-4230-9d92-bbe3e604925e">
 
